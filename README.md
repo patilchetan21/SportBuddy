@@ -1,6 +1,6 @@
 # SportBuddy
 
-first run: npm install
-for front-end run: ng serve (1st terminal)
-for json server first install json serve using: npm i json-server
-for running json serve run: json-server --watch db.json
+<h1>first run:</h1> npm install<br><br><br>
+<h1>for front-end run:</h1> ng serve (1st terminal)<br><br><br>
+<h1>for json server first install json serve using:</h1> npm i json-server<br><br><br>
+<h1>for running json serve run:</h1> json-server --watch db.json<br><br><br>
