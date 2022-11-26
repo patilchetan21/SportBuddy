@@ -1,0 +1,29 @@
+ul{
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+.footer {
+    padding: 10px;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    color: white;
+    background-color: black;
+    border-top-right-radius: 20px; 
+    border-bottom-left-radius: 20px; 
+}
+.footer ul{
+    list-style-type: none;
+    /* display: flex; */
+    /* justify-content: space-between; */
+    /* justify-items: end; */
+}
+.footer ul li a{
+    color:white;
+    text-decoration: none;
+    font-size: medium;
+}
+.copyright{
+    text-align: center;
+}

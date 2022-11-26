@@ -1,0 +1,252 @@
+{
+  "seller": [
+    {
+      "name": "sam sidhu",
+      "email": "sam@seller.com",
+      "password": "abc@123",
+      "id": 2
+    },
+    {
+      "name": "peter",
+      "password": "abc@123",
+      "email": "peter@test.com",
+      "id": 3
+    },
+    {
+      "name": "bruce",
+      "password": "abc@123",
+      "email": "bruce@test.com",
+      "id": 4
+    },
+    {
+      "name": "anil",
+      "password": "abc123",
+      "email": "anil@test.com",
+      "id": 5
+    },
+    {
+      "name": "alena",
+      "password": "abc123",
+      "email": "alena@test.com",
+      "id": 6
+    },
+    {
+      "name": "sam",
+      "password": "abc@123",
+      "email": "sam@test.com",
+      "id": 7
+    },
+    {
+      "name": "bhasker",
+      "password": "abc@123",
+      "email": "bhasker@test.com",
+      "id": 8
+    },
+    {
+      "name": "mit",
+      "password": "mit",
+      "email": "mit",
+      "id": 9
+    },
+    {
+      "name": "palak",
+      "password": "p",
+      "email": "palak1@gmail.com",
+      "id": 10
+    },
+    {
+      "name": "rutuja",
+      "email": "rutuja@seller.com",
+      "password": "rutuja@123",
+      "id": 11
+    },
+    {
+      "name": "amol",
+      "email": "amol@seller.com",
+      "password": "amol@123",
+      "id": 12
+    },
+    {
+      "name": "joker",
+      "password": "joker",
+      "email": "joker@jokes",
+      "id": 13
+    },
+    {
+      "name": "joker",
+      "password": "joker",
+      "email": "joker@jokes",
+      "id": 14
+    }
+  ],
+  "products": [
+    {
+      "name": "JOMA BREAK LONG SLEEVE WOMENS T-SHIRT (WHITE)",
+      "price": "1899",
+      "category": "Clothing",
+      "color": "white",
+      "description": "Joma Break Long Sleeve Womens T-Shirt (White)",
+      "image": "https://storage.sg.content-cdn.io/cdn-cgi/image/%7Bwidth%7D,%7Bheight%7D,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/JM901573201WH.jpg",
+      "id": 2
+    },
+    {
+      "name": "CRICKET SET",
+      "price": "5299",
+      "category": "Cricket",
+      "color": "mix",
+      "description": "DSC PREMIUM CRICKET SET",
+      "image": "https://storage.sg.content-cdn.io/cdn-cgi/image/%7Bwidth%7D,%7Bheight%7D,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/DSCJRCRSPRM.jpg",
+      "id": 3
+    },
+    {
+      "name": "Nike Shoes",
+      "price": "3000",
+      "category": "Shoes",
+      "color": "Black",
+      "description": "Best shoes for Running",
+      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/1eeaacc0-e07c-4024-a5f7-57f2fd23e8a2/air-max-270-g-golf-shoe-Z6vCfs.png",
+      "id": 4
+    },
+    {
+      "name": "ASSAULT CLASSIC AIRBIKE",
+      "price": "48999",
+      "category": "AirBike",
+      "color": "black",
+      "description": "Having forged the path to bringing the air bike into the Elite Fitness space, our original Assault AirBike classic is best known for creating love-hate relationships with those that have been bold enough to give it a try. Found in boxes and gyms across the globe, this badboy’s reputation precedes itself. As with all Assault products, the AirBike classic is forged from the highest quality, most durable materials. This old favorite will leave you burning for days.",
+      "image": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=780,height=780,quality=75,format=auto/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/ASCLAIRBIKE.jpg",
+      "id": 5
+    },
+    {
+      "name": "YONKER BLACKEN ROLLER SKATES",
+      "price": "899",
+      "category": "Skates",
+      "color": "Black",
+      "description": "Yonker is among India's first professional roller skates manufacturers with international standard products.",
+      "image": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=780,height=780,quality=75,format=auto/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/ys1205_l.jpg",
+      "id": 6
+    },
+    {
+      "name": "Noise Smart Watch",
+      "price": "2000",
+      "category": "Watch",
+      "color": "Black",
+      "description": "Noise smart watch for man and women both",
+      "image": "https://www.reliancedigital.in/medias/Noise-Colorfit-Pro-2-Smart-Watch-491900986-i-1-1200Wx1200H-300Wx300H?context=bWFzdGVyfGltYWdlc3w1MDc0NXxpbWFnZS9qcGVnfGltYWdlcy9oYzkvaDdjLzk1OTE4MjA3NDY3ODIuanBnfDA3MjZlMzkzOTExYzMyNzk5Y2YzOTk0MWFkMjc5YjE5OTlkMDE4NzYzYTg1YzQ2YmNjZjMxYzc5ZDJiYjBlNDg",
+      "id": 7
+    }
+  ],
+  "users": [
+    {
+      "name": "anil",
+      "email": "anil@user.com",
+      "password": "abc123",
+      "id": 1
+    },
+    {
+      "name": "peter",
+      "email": "peter@user.com",
+      "password": "abc123",
+      "id": 2
+    },
+    {
+      "name": "hyden",
+      "email": "hyden@user.com",
+      "password": "abc123",
+      "id": 3
+    },
+    {
+      "name": "tony",
+      "email": "tony@user.com",
+      "password": "abc123",
+      "id": 4
+    },
+    {
+      "name": "Chetan",
+      "email": "chetan@patil.com",
+      "password": "chetan",
+      "id": 5
+    },
+    {
+      "name": "palak",
+      "email": "palak@gmail.com",
+      "password": "palak",
+      "id": 6
+    },
+    {
+      "name": "yash Patil",
+      "email": "yashp@gmail.com",
+      "password": "yash",
+      "id": 7
+    },
+    {
+      "name": "xyz",
+      "email": "xyz@gmail",
+      "password": "123",
+      "id": 8
+    }
+  ],
+  "cart": [
+    {
+      "name": "Levies Jeans",
+      "price": "5000",
+      "category": "Jeans",
+      "color": "blue",
+      "description": "Confirmable jeans for man ",
+      "image": "https://www.filmibeat.com/wimg/desktop/2012/12/13548612746596.jpg",
+      "quantity": 1,
+      "productId": 5,
+      "userId": 3,
+      "id": 8
+    }
+  ],
+  "orders": [
+    {
+      "email": "anil@user.com",
+      "address": "noida sector x",
+      "contact": "9999",
+      "totalPrice": 104750,
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "email": "anil@test.com",
+      "address": "noida sector x",
+      "contact": "8877",
+      "totalPrice": 6100,
+      "userId": 1,
+      "id": 3
+    },
+    {
+      "email": "patilchetan2110@gmail.com",
+      "address": "Bhdli bk",
+      "contact": "07776870737",
+      "totalPrice": 4098,
+      "userId": 5,
+      "id": 4
+    },
+    {
+      "email": "jhdjfj",
+      "address": "djdj",
+      "contact": "qkjdkdk",
+      "totalPrice": 6097,
+      "userId": 7,
+      "id": 5
+    },
+    {
+      "email": "chetan@patil.com",
+      "address": "j",
+      "contact": "kj",
+      "totalPrice": 3100,
+      "userId": 5,
+      "id": 6
+    },
+    {
+      "email": "as",
+      "address": "as",
+      "contact": "as",
+      "totalPrice": 9100,
+      "userId": 6,
+      "id": 7
+    }
+  ]
+}
